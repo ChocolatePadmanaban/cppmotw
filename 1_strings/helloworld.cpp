@@ -7,6 +7,7 @@ int main() {
 
     std::cout << "Non-edit commit-1";
     std::cout << "Non-edit commit-2";
+    std::cout << "Non-edit commit-3";
     std::cout << "Non-edit commit-4";
     return 0;
 }
